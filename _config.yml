@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "OpenMind Notes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jaeho.Ahn"
+name                     : "OpenMind"
 description              : "생각과 경험을 기록하고 정리하는 공간입니다."
 url                      : "https://jaeho77.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
